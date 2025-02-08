@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AnisaShaikh 
+- 👋 Hi, I’m Anisa Shaikh 
 - 👀 I’m interested in .Data Science,AI, Machine Learning..
 - 🌱 I’m currently learning .Deep learning, Natural Language Processing..
 - 💞️ I’m looking to collaborate on software Development roles,AI Engineer Roles, Cloud Engineer Roles...
